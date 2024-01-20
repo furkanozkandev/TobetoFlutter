@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAurTSJT_goFQI2mpfR3Ne6nN_fTa680qE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>576618937756</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.firebaselesson</string>
+	<key>PROJECT_ID</key>
+	<string>tobetomobil-flutter1b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tobetomobil-flutter1b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:576618937756:ios:34edff5fe8bca16ae61c59</string>
+</dict>
+</plist>
